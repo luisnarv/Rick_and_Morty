@@ -1,0 +1,14 @@
+.txt{
+    color: white;
+    margin-left: 120px;
+
+}
+.detail{
+    margin-top: 80px ;
+    display: flex;
+}
+img{
+    width: 200px;
+    height: auto;
+    margin-left: 60px;
+}

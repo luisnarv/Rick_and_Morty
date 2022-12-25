@@ -1,5 +1,6 @@
 .Card{
     border: 2px solid rgb(98, 143, 235);
+    display: flex;
     width: 22%;
     border-radius: 8px;
     padding: 2px;
