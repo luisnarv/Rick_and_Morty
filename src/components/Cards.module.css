@@ -1,6 +1,12 @@
 .Cards{
     display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
     padding: 15px;
     border: 1px solid rgb(11, 91, 42);
     border-radius: 6px ;
+    /* background-color: black;
+*/
+background-image: url("../../IMG/4.jpg");
 }

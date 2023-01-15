@@ -1,14 +1,24 @@
 .txt{
-    color: white;
+
     margin-left: 120px;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 255, 17);
+   
 
 }
 .detail{
-    margin-top: 80px ;
+    margin-top: 70px ;
     display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: stretch;
+    
 }
 img{
-    width: 200px;
+    width: 400px;
     height: auto;
     margin-left: 60px;
+    border-radius: 50px;
+    color-interpolation-filters: sRGB;
 }

@@ -1,18 +1,58 @@
 .Card{
     border: 2px solid rgb(98, 143, 235);
-    display: flex;
-    width: 22%;
+    width: 260px;
     border-radius: 8px;
-    padding: 2px;
+    height: 350px;
+
     margin: 8px;
     background-color: rgba(240, 255, 255, 0.238);
+    position: relative;
+  
 }
 
-img{
-    width: 100%;
+
+.img{
+    width: 260px;
+    height: 350px;
+    margin-left: auto;
+    border-radius: 10px;
+    position: absolute; 
+    align-items: center;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.botonx{
+    text-align: center;
+    background-color: #f50101;
+    color: rgb(0, 125, 235);
+
+    position: absolute;
+    top: -272px;
+    left: 3px;
+    /* transform: translate(-50%, -50%);*/
+} 
+
+.boton{
+    text-align: center;
+    color: rgb(0, 125, 235);
+
+    position: absolute;
+    top: -272px;
+    left: 206px;
 }
 
 .texto{
+    position: relative;    
     text-align: center;
-    color: aliceblue;
+    background-color: #e5f2ff44;
+    color: rgb(0, 125, 235);
+    border-radius: 15px;
+    position: absolute;
+    top: 79%;
+    left: 2%;
+    font-size: 10px;
+    /* transform: translate(-50%, -50%); */
 }
+

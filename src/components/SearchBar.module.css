@@ -1,0 +1,17 @@
+.search{
+    width: 131px;
+    height: 20px;
+    background: #3ad2ff;
+    border: none;
+    font-size: 10pt;
+   
+    color: #63717f;
+    
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+
+
+    
+}

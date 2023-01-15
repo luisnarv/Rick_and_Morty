@@ -21,6 +21,9 @@ export default function Detail() {
       });
     return setCharacter({});
   }, [detailId]);
+
+
+  
 return( 
 <div className={styles.detail}>
 <div className={styles.txt}>

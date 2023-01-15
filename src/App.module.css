@@ -1,3 +1,14 @@
 .container{
-  background-image: url("https://c4.wallpaperflare.com/wallpaper/946/632/921/espacio-estrellas-naturaleza-planetas-wallpaper-preview.jpg");
+  background-image: url("../IMG/4.jpg");
+  flex-direction: row;
+  justify-content: flex-start;
+  /* border: 10px solid rgba(0, 0, 1, 0.131);
+  padding: 4px; */
+
+
+  height: 100vh;
+  width: 100%;
+  /*background-color: rgba(0, 0, 0, 0.3);
+   text-align: center;
+  position: relative; */
 }

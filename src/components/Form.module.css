@@ -1,0 +1,36 @@
+.container{
+text-align: center;
+color: aqua;
+ padding: 150px;
+ border-radius: 20%;
+justify-content: space-around;
+flex-direction: row;
+font-size: 20px;
+   
+}
+
+.danger{
+    font-size: 14px;   
+    color: rgb(232, 9, 9);
+    margin-left: 10em;
+    font-weight: bold;
+}
+
+.warning{
+font-size: 30px;
+color: red;
+
+}
+
+.login{
+    background-color: #af894c65; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 20%;
+    font-size: 16px;
+    box-shadow: 0 8px 16px 0 rgba(243, 196, 7, 0.344), 0 6px 20px 0 rgba(254, 254, 254, 0.413);
+}

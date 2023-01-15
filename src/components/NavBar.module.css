@@ -3,8 +3,29 @@
    display: flex;
    flex-direction: row;
    justify-content: space-evenly;
-   border: 100px solid rgba(0, 0, 1, 0.131);
+   white-space: break-spaces;
+   border: 10px solid rgba(0, 0, 1, 0.131);
    border-radius: 6px;
    padding: 8px;
+   align-content: flex-start
 
+}
+
+.home{
+    border-radius: 2px;
+    background-color: #04b4efd2;
+    border-radius: 2px;
+
+}
+
+.logout{
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+
+.favorite{
+    border-radius: 2px;
+    background-color: #f3f30b;
+    border-radius: 2px;
 }
